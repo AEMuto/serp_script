@@ -13,7 +13,7 @@ A Python script that uses Google Custom Search API to fetch search results.
 
 1. Clone the repository:
 ```sh
-git clone <repository-url>
+git clone https://github.com/AEMuto/serp_script
 cd serp_script
 ```
 
